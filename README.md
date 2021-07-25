@@ -10,3 +10,11 @@ First install these library:
     Flask
   
     PyMySQL
+
+Run Application:
+
+    python server.py
+
+Open Browser:
+
+    http://localhost:5000
