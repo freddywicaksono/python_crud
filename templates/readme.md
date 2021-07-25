@@ -1,1 +1,1 @@
-# Directories to hold all html files
+# Directories to hold all html files separate for every table
